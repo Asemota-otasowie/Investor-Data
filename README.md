@@ -17,5 +17,5 @@ These  questions can't be answered with just external data, they require interna
 3. Data conversion
 
 ## Data source 
-
+The data source for this analysis was from [kaggle](https://www.kaggle.com/datasets), containing information on a commercial store. However , the raw data was messy, requiring extensive cleaning and preprocessing
 
