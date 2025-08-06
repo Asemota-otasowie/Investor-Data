@@ -1,2 +1,2 @@
 select name from family
-where name = "James"
+where name = "James";
